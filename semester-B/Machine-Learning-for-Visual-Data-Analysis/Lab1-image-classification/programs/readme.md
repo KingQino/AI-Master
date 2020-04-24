@@ -1,0 +1,1 @@
+Compared with the original code, I just make a change for the two .m files. For all the codes I have changed, I have shown them on my report in detail. But for some parameters such as 'Dictionarysize', you should adjust them by your self.
